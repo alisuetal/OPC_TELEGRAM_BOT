@@ -16,6 +16,7 @@ Here lies all the bot functionallities, with examples on how to use them, as wel
 - [x] **/Deletetaskgroup {task id}:** deletes a Task Group. ***Note: this action can not be reverted, use it carefully***;
 - [x] **/Taskgroups:** shows all task groups the user has;
 - [x] **/Taskgroup {group id}:** shows details about a task group;
+- [x] **/Stop:** End the chat. ***Note: all your data will be deleted from the bot database, including your tasks.***
 
 ### To-do and Improvments
 
